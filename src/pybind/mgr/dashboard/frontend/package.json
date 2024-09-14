@@ -108,7 +108,7 @@
     "cypress-iframe": "1.0.1",
     "cypress-multi-reporters": "1.5.0",
     "eslint": "8.17.0",
-    "gherkin-lint": "4.2.2",
+    "gherkin-lint": "4.2.4",
     "html-linter": "1.1.1",
     "htmllint-cli": "0.0.7",
     "identity-obj-proxy": "3.0.0",
